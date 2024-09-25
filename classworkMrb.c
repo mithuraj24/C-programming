@@ -1,3 +1,5 @@
+//Write a function power(a,b) to calculate the value of a raised to b.
+//Date: 25/09/24
 #include<stdio.h>
 float power(float,int);
 int main()
