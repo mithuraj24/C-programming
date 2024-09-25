@@ -1,3 +1,3 @@
-Mithuraj Boruah
-Roll No.- 28
+Mithuraj Boruah.
+Roll No- 28
 (Team 2)
