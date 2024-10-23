@@ -1,4 +1,3 @@
-// Define and Initialize a structure
 //Mithuraj Boruah
 //22/10/24
 //Pass a reference to a function using pointer(single variable)
