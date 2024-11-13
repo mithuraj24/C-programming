@@ -1,1 +1,69 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
 
+\begin{document}
+\noindent \textbf{Total number of printed pages: 2}
+\begin{center}
+    \textbf{1st SEM MCA} \\
+    \textbf{2024} \\
+    (DECEMBER) \\
+    \textbf{COMPUTER APPLICATION} \\
+    \textbf{Paper: MCA-109 (C Programming)} \\
+    \vspace{0.2cm}
+    \textbf{Full Marks: 60 \\ Pass Marks: 27 \\ Time: Three hours}
+\end{center}
+
+\vspace{0.2cm}
+\begin{center}
+    \noindent \textbf{The figures in the margin indicate full marks for the questions.}
+\end{center}
+\vspace{0.5cm}
+
+\section*{Answer the following \hfill 1x5=5}
+
+\begin{enumerate}
+    \item[(a)] What is the purpose of the `void` keyword in C?
+    \item[(b)] What is the size of the `char` data type in C?
+    \item[(c)] How do you declare a constant integer in C?
+    \item[(d)] Write the syntax for a `while` loop in C.
+    \item[(e)] What is the purpose of the `include` directive in C?
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\section*{Answer the following questions \hfill 2x5=10}
+
+\begin{enumerate}
+    \item[(a)] Explain the difference between `struct` and `union` in C with an example.
+    \item[(b)] What is the significance of the `break` and `continue` statements in loops? Provide examples.
+    \item[(c)] Write a C program to reverse the digits of a number.
+    \item[(d)] What is the difference between `++i` and `i++` in C? Provide examples.
+    \item[(e)] How does C handle multi-dimensional arrays? Provide an example.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\section*{Answer any three of the following \hfill 5x3=15}
+
+\begin{enumerate}
+    \item[(a)] Write a C program to find the largest element in an array.
+    \item[(b)] Explain the concept of recursion in C with an example.
+    \item[(c)] How does a `for` loop work in C? Explain with an example.
+    \item[(d)] Write a C program to calculate the factorial of a number using a recursive function.
+    \item[(e)] Describe how C handles memory management, including stack and heap memory.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\section*{Answer any three of the following \hfill 10x3=30}
+
+\begin{enumerate}
+    \item[(a)] Discuss the advantages of using pointers in C, with an example of dynamic memory allocation.
+    \item[(b)] Explain the differences between `call by value` and `call by reference` in C with examples.
+    \item[(c)] What is file handling in C? Explain how to open, read, and close a file with an example program.
+    \item[(d)] Discuss the concept of bitwise operators in C with examples of `AND`, `OR`, and `XOR`.
+    \item[(e)] Explain the process of using functions in C. Write a program that uses functions to compute the area and perimeter of a rectangle.
+\end{enumerate}
+
+\end{document}
