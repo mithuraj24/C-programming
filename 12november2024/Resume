@@ -1,1 +1,38 @@
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Riosar Studio}{Sep. 2022 -- Present}
+      {Chief Product Manager}{Guwahati, India}
+      \resumeItemListStart
+        \resumeItem{Managed the end-to-end product lifecycle, from ideation to launch, ensuring alignment with market needs.}
+        \resumeItem{Coordinated cross-functional teams including design, development, and marketing to drive product success.}
+        \resumeItem{Developed product roadmaps, user stories, and prioritized features based on customer feedback and market research.}
+        \resumeItem{Led user testing and market analysis to refine product strategies and improve user satisfaction.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills, Languages, and Interests}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+    \textbf{Tools:}{: Jira, Trello, Asana, Figma, Adobe Illustrator, Photoshop} \\
+    \textbf{Skills:}{: Product Management, Project Planning, Market Research, Data Analysis, Graphic Design} \\
+    \textbf{Languages:}{: Hindi (Native), English (Fluent), Assamese (Fluent)} \\
+    \textbf{Interests:}{: Digital Marketing, Photography, Travel Blogging, Video Editing}    
+    }}
+ \end{itemize}
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications and Courses}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Certified Product Manager}{, LinkedIn Learning, 2023}}  
+    }}
+    \small{\item{
+     \textbf{Digital Marketing Specialist}{, HubSpot Academy, 2024}} 
+    }}  
+ \end{itemize}
+
+\end{document}
 
